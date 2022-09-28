@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowOfBabylon", "TowOfBabylon\TowOfBabylon.csproj", "{7EFC5D53-DCCB-45D3-97CC-9FAA116D64DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowOfBabylon.Tests", "TowOfBabylon.Tests\TowOfBabylon.Tests.csproj", "{BB9CED9A-E07F-43AA-B9F2-BEF4D045DD6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EFC5D53-DCCB-45D3-97CC-9FAA116D64DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFC5D53-DCCB-45D3-97CC-9FAA116D64DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFC5D53-DCCB-45D3-97CC-9FAA116D64DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFC5D53-DCCB-45D3-97CC-9FAA116D64DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9CED9A-E07F-43AA-B9F2-BEF4D045DD6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9CED9A-E07F-43AA-B9F2-BEF4D045DD6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9CED9A-E07F-43AA-B9F2-BEF4D045DD6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9CED9A-E07F-43AA-B9F2-BEF4D045DD6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD00F903-8AE2-479C-B39B-FE4C996E65D5}
+	EndGlobalSection
+EndGlobal
